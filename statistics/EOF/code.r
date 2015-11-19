@@ -1,6 +1,14 @@
 library(lattice)
 
 #-----------------------------------------------------#
+# DESCRIPTION
+# 	Basic Tutorial on to perform EOF with R
+# Autor
+#	Glauber during a POS Café Presentation 
+#-----------------------------------------------------#
+
+
+#-----------------------------------------------------#
 # Agora faremos executaremos algumas linhas de codico #
 # para entendermos o funcionamento basico da EOF      #
 #-----------------------------------------------------#
