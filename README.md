@@ -1,7 +1,7 @@
 # Welcome to the Bank of Script Repository
 ## Description
-  *latex/teseEvandro: A template to write your These in Latex with the formatiing rule of the USP
-  *statistics/EOF : Commented code which present how to perform a PCA analysis with the language R
+1. latex/teseEvandro: A template to write your These in Latex with the formatiing rule of the USP
+2. statistics/EOF : Commented code which present how to perform a PCA analysis with the language R
 
 ## How is it organised?
 
